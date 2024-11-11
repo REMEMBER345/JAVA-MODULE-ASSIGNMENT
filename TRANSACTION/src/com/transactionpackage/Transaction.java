@@ -17,4 +17,12 @@ public class Transaction {
             System.out.println("Deposited amount must be greater than shs.1000");
         }
     }
+    public void withdraw(double amount){
+        if (amount>0&&amount<=balance){
+            balance-=amount;
+        }
+        else {
+            System.out.println("Insufficient funds! please deposit to continue transaction+");
+        }
+    }
 }
