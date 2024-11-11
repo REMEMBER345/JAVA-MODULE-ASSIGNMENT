@@ -1,5 +1,4 @@
 package com.userpackage;
-import com.userpackage.Client;
 public class Client {
     String clientName;
     int clientId;
