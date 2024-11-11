@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACCOUNTS/ACCOUNTS.iml" filepath="$PROJECT_DIR$/ACCOUNTS/ACCOUNTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-MODULE-ASSIGNMENT.iml" filepath="$PROJECT_DIR$/.idea/JAVA-MODULE-ASSIGNMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MAIN/MAIN.iml" filepath="$PROJECT_DIR$/MAIN/MAIN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TRANSACTION/TRANSACTION.iml" filepath="$PROJECT_DIR$/TRANSACTION/TRANSACTION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/USER/USER.iml" filepath="$PROJECT_DIR$/USER/USER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTILITY/UTILITY.iml" filepath="$PROJECT_DIR$/UTILITY/UTILITY.iml" />
     </modules>
   </component>
 </project>
